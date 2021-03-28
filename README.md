@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BernardLesley's Page
 
 You can use the [editor on GitHub](https://github.com/BernardLesley/BernardLesley.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
