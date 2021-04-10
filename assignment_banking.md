@@ -32,10 +32,8 @@ We managed to identify the **people, objective, process, data** framework for a 
 ## Further Analysis :
 ### 1. Cleaning The Data
 ![original data](https://i.ibb.co/D8G6SB3/Screenshot-222.png)
-
 Here, the data is still messy. After formatting, we get :
 ![modified data](https://i.ibb.co/rdCQcvW/Screenshot-224.png)
-
 This DataFrame is far more easier to work with!
 
 ### 2. User Segmentation and Targeting
