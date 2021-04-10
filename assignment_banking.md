@@ -42,3 +42,5 @@ By using **KDE Plot**, we can see the distribution of subscriptions vs age. Henc
 
 ![2](https://i.ibb.co/c8ZdHSp/Screenshot-225.png)
 Now, by comparing educational background, it can be deduced that **secondary and tertiary education** comprises most of the subscriptions. We could also see that the number of defaults and loans in secondary education is far higher than the rest, suggesting that *higher rate of default and loan* might be correlated to *the increase of subscriptions*.
+
+[<--back](https://bernardlesley.github.io/)
