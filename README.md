@@ -11,4 +11,4 @@
 ### Data analysis for Banking Dataset - Marketing Targets
  - Banking Dataset is gained from this [kaggle dataset](https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets), suggesting the correlation between various indicators and the number of successful marketing targets.
  - Implement Pandas, Numpy, Pandas, and seaborn to visualize data.
- - A quick summary about the analysis is available[here](https://github.com/BernardLesley/BernardLesley.github.io/blob/main/assignment.md)
+ - A quick summary about the analysis is available [here](https://github.com/BernardLesley/BernardLesley.github.io/blob/main/assignment.md)
