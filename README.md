@@ -11,4 +11,4 @@
 ### Data analysis for Twitter Engagement of NBA player 🏀
  - Data source for NBA player based on this [kaggle dataset](https://www.kaggle.com/noahgift/social-power-nba)
  - Utilize Pandas, Numpy, and Pandas to visualize data.
- - More about the analysis [here](https://github.com/BernardLesley/BernardLesley.github.io/blob/main/assignment.md)
+ - More about the analysis [here](https://github.com/BernardLesley/BernardLesley.github.io/blob/main/assignment_banking.md)
