@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/67412977/112749267-6e90c500-8feb-11eb-810a-cdfda9ef77b6.png)
 ## I’m a 12th grader student, ready to become the next data analyst.
-## Experience
+### Experience
 ### Data analysis for Banking Dataset - Marketing Targets
  - Banking dataset is gained from this [kaggle dataset](https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets), suggesting the correlation between various indicators and the number of successful marketing targets.
  - Implement Pandas, Numpy, Pandas, and seaborn to visualize data.
