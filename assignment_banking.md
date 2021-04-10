@@ -38,7 +38,7 @@ This DataFrame is far more easier to work with!
 
 ### 2. User Segmentation and Targeting
 ![1](https://i.ibb.co/F0wwr4w/Screenshot-223.png)
-By using KDE Plot, we can see the distribution of subscriptions vs age. Hence, We can conclude that most of the subscriptions come from the 30-40 age group.
+By using **KDE Plot**, we can see the distribution of subscriptions vs age. Hence, We can conclude that most of the subscriptions come from the **30-40 age group**.
 
 ![2](https://i.ibb.co/c8ZdHSp/Screenshot-225.png)
-Now, by comparing educational background, it can be deduced that secondary and tertiary education comprises most of the subscriptions. We could also see that the number of defaults and loans in secondary education is far higher than the rest, suggesting that the higher rate of default and loan might be correlated to the increase of subscriptions.
+Now, by comparing **educational background**, it can be deduced that **secondary and tertiary education** comprises most of the subscriptions. We could also see that the number of defaults and loans in secondary education is far higher than the rest, suggesting that the **higher rate of default and loan** might be correlated to the **increase of subscriptions**.
