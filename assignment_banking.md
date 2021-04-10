@@ -30,7 +30,7 @@ We managed to identify the **people, objective, process, data** framework for a 
  - Trends and economic growth
 
 ## Further Analysis :
-### Cleaning Data
+### Cleaning The Data
 ![original data](https://i.ibb.co/D8G6SB3/Screenshot-222.png)
 
 Here, the data is still messy. After formatting, we get :
