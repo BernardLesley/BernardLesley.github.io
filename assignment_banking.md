@@ -30,7 +30,7 @@ We managed to identify the **people, objective, process, data** framework for a 
  - Trends and economic growth
 
 ### Further Analysis :
-![original data](https://ibb.co/k93rWLY)
-![modified data](https://ibb.co/QD2JCX5)
-![1](https://ibb.co/HxzzSTz)
+![original data](https://i.ibb.co/D8G6SB3/Screenshot-222.png)
+![modified data](https://i.ibb.co/rdCQcvW/Screenshot-224.png)
+![1](https://i.ibb.co/F0wwr4w/Screenshot-223.png)
 ![2](https://i.ibb.co/c8ZdHSp/Screenshot-225.png)
