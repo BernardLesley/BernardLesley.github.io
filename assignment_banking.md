@@ -33,4 +33,4 @@ We managed to identify the **people, objective, process, data** framework for a 
 ![original data](https://ibb.co/k93rWLY)
 ![modified data](https://ibb.co/QD2JCX5)
 ![1](https://ibb.co/HxzzSTz)
-![2](https://ibb.co/0963SRW)
+![2](https://i.ibb.co/c8ZdHSp/Screenshot-225.png)
