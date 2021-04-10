@@ -30,7 +30,7 @@ We managed to identify the **people, objective, process, data** framework for a 
  - Trends and economic growth
 
 ## Further Analysis :
-### Cleaning The Data
+### 1. Cleaning The Data
 ![original data](https://i.ibb.co/D8G6SB3/Screenshot-222.png)
 
 Here, the data is still messy. After formatting, we get :
@@ -38,7 +38,7 @@ Here, the data is still messy. After formatting, we get :
 
 This DataFrame is far more easier to work with!
 
-### User Segmentation and Targeting
+### 2. User Segmentation and Targeting
 ![1](https://i.ibb.co/F0wwr4w/Screenshot-223.png)
 By using KDE Plot, we can see the distribution of subscriptions vs age. Hence, We can conclude that most of the subscriptions come from the 30-40 age group.
 
