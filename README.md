@@ -1,4 +1,4 @@
-# Hello, I'm Bernard, Welcome to My Page
+# Hi There!, I'm Bernard, Welcome to My Page
 
 
 [Link](url) and ![Image](src)
