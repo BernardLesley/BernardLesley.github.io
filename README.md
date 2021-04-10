@@ -6,7 +6,7 @@
 ### Data analysis for Banking Dataset 🏦 - Marketing Targets
  - Banking dataset is gained from this [dataset](https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets), suggesting the way to increase banking instrument's subscription.
  - Implement Pandas, Numpy, Pandas, and Seaborn to process the data.
- - A quick summary is available [here](https://github.com/BernardLesley/BernardLesley.github.io/blob/main/assignment_twitterNBA.md)
+ - A quick summary is available [here](BernardLesley.github.io/blob/main/assignment_twitterNBA.md)
 
 ### Data analysis for Twitter Engagement of NBA player 🏀
  - Data source for NBA player based on this [kaggle dataset](https://www.kaggle.com/noahgift/social-power-nba)
