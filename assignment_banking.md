@@ -30,7 +30,13 @@ We managed to identify the **people, objective, process, data** framework for a 
  - Trends and economic growth
 
 ### Further Analysis :
+### CLeaning Data
 ![original data](https://i.ibb.co/D8G6SB3/Screenshot-222.png)
+Here, the data is still messy. After formatting, we get :
 ![modified data](https://i.ibb.co/rdCQcvW/Screenshot-224.png)
+This DataFrame is far easier to work with!
+### User Segmentation and Targeting
 ![1](https://i.ibb.co/F0wwr4w/Screenshot-223.png)
+By using KDE Plot, we can see the distribution of subscriptions vs age. Hence, We can conclude that most of subscriptions come from the 30-40 age group.
 ![2](https://i.ibb.co/c8ZdHSp/Screenshot-225.png)
+Now, by comparing educational background, it can be deduced that secondary and tertiaty education comprises most of subscriptions. We could also see that the number of default and loan in secondary education is far higher that the rest, suggesting that the higher rate of default and loan might be correlated to the increase of subscriptions.
