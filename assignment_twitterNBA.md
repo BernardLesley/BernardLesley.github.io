@@ -30,7 +30,7 @@ Here, the data encompasses many distinct attributes. We might find interesting c
 
 ### 2. Correlation between some aspects and twitter growth.
  - Salary
- ![Salary_TwitterFavourite](https://i.ibb.co/CbmVhgd/Screenshot-249.png | width=48) ![Salary_TwitterRetweet](https://i.ibb.co/wgxLKxB/Screenshot-251.png | width=48)
+ ![Salary_TwitterFavourite](https://i.ibb.co/CbmVhgd/Screenshot-249.png | width=10) ![Salary_TwitterRetweet](https://i.ibb.co/wgxLKxB/Screenshot-251.png | width=1)
  - Wins 
  ![Wins_TwitterFavourite](https://i.ibb.co/0q0Y5xc/Screenshot-252.png) ![Wins_TwitterRetweet](https://i.ibb.co/ZWtG6JM/Screenshot-253.png)
 
