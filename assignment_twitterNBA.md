@@ -7,15 +7,17 @@ We managed to identify the **people, objective, process, data** framework for a 
  - Viewer
  - Influencers
  - Athletes
+ 
 ## Objective:
  - Sell tickets
  - Talent scouting
  - Optimize training
  - Sell brand merchandise
+ 
 ## Process:
  - Pick more interesting players
  - Use different training techniques
-
+ 
 ## Data:
  - Performance of each player
  - Endorsement for each team
@@ -27,9 +29,11 @@ We managed to identify the **people, objective, process, data** framework for a 
 Here, the data encompasses of many distinct attributes. We might find some interesting correlation here...
 
 ### 2. Correlation between some aspects and twitter growth.
-![Salary_TwitterFavourite](https://i.ibb.co/CbmVhgd/Screenshot-249.png)
-![Salary_TwitterRetweet](https://i.ibb.co/wgxLKxB/Screenshot-251.png)
-![Wins_TwitterFavourite](https://i.ibb.co/0q0Y5xc/Screenshot-252.png)
-![Wins_TwitterRetweet](https://i.ibb.co/ZWtG6JM/Screenshot-253.png)
+ - Salary
+ ![Salary_TwitterFavourite](https://i.ibb.co/CbmVhgd/Screenshot-249.png)
+ ![Salary_TwitterRetweet](https://i.ibb.co/wgxLKxB/Screenshot-251.png)
+ - Wins 
+ ![Wins_TwitterFavourite](https://i.ibb.co/0q0Y5xc/Screenshot-252.png)
+ ![Wins_TwitterRetweet](https://i.ibb.co/ZWtG6JM/Screenshot-253.png)
 
 [<--back](https://bernardlesley.github.io/)
