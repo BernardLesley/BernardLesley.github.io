@@ -30,10 +30,8 @@ Here, the data encompasses of many distinct attributes. We might find some inter
 
 ### 2. Correlation between some aspects and twitter growth.
  - Salary
- ![Salary_TwitterFavourite](https://i.ibb.co/CbmVhgd/Screenshot-249.png)
- ![Salary_TwitterRetweet](https://i.ibb.co/wgxLKxB/Screenshot-251.png)
+ ![Salary_TwitterFavourite](https://i.ibb.co/CbmVhgd/Screenshot-249.png) ![Salary_TwitterRetweet](https://i.ibb.co/wgxLKxB/Screenshot-251.png)
  - Wins 
- ![Wins_TwitterFavourite](https://i.ibb.co/0q0Y5xc/Screenshot-252.png)
- ![Wins_TwitterRetweet](https://i.ibb.co/ZWtG6JM/Screenshot-253.png)
+ ![Wins_TwitterFavourite](https://i.ibb.co/0q0Y5xc/Screenshot-252.png) ![Wins_TwitterRetweet](https://i.ibb.co/ZWtG6JM/Screenshot-253.png)
 
 [<--back](https://bernardlesley.github.io/)
