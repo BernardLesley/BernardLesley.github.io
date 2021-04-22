@@ -26,7 +26,7 @@ We managed to identify the **people, objective, process, data** framework for NB
 ## Further Analysis :
 ### 1. Original Data
 ![original data](https://i.ibb.co/BC6ZZ7X/Screenshot-250.png)
-Here, the data encompasses many distinct attributes. We might find some interesting correlation here...
+Here, the data encompasses many distinct attributes. We might find interesting correlations here...
 
 ### 2. Correlation between some aspects and twitter growth.
  - Salary
