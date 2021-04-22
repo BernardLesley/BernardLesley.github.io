@@ -1,6 +1,6 @@
 # Utilizing data to analyze twitter NBA player 
 
-We managed to identify the **people, objective, process, data** framework for a bank institution as follows:
+We managed to identify the **people, objective, process, data** framework for NBA player as follows:
 
 ## People:
  - Coach
