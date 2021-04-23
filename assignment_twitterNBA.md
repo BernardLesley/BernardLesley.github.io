@@ -1,4 +1,4 @@
-# Utilizing data to analyze twitter NBA player 
+# Utilizing Data to Analyze Twitter NBA Player 
 
 We managed to identify the **people, objective, process, data** framework for NBA player as follows:
 
