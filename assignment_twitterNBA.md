@@ -31,7 +31,7 @@ Here, the data encompasses many distinct attributes. We might find interesting c
 ### 2. Correlation between some aspects and twitter growth.
  - **Salary**
 
-![Salary_TwitterFavourite](https://i.ibb.co/CbmVhgd/Screenshot-249.png) ![Salary_TwitterRetweet](https://i.ibb.co/wgxLKxB/Screenshot-251.png)
+![Salary_TwitterFavourite](https://i.ibb.co/K5Z4LJQ/Screenshot-255.png) ![Salary_TwitterRetweet](https://i.ibb.co/wgxLKxB/Screenshot-251.png)
 
 The graphs above illustrates the correltaion between salary and varioous twitter attributes. From the first graph, we obtain that the pearson coefficient = **0.238**, which is close to 0; therefore, there is no strong indication between salary and favourite count. The same goes for the second graph. We obtain that the pearson coefficient = **0.241**, which indicate little correlation between salary and retweet count.
  
